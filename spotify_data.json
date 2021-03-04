@@ -1,0 +1,100 @@
+[
+    {
+        "name": "Man Of The Year",
+        "album": "Man Of The Year",
+        "artist": "ScHoolboy Q",
+        "release_date": "2013-01-01",
+        "durations_in_mins": 3.6
+    },
+    {
+        "name": "Shabba (feat. A$AP Rocky)",
+        "album": "Trap Lord",
+        "artist": "A$AP Ferg",
+        "release_date": "2013-08-19",
+        "durations_in_mins": 4.6
+    },
+    {
+        "name": "Collard Greens",
+        "album": "Oxymoron (Deluxe)",
+        "artist": "ScHoolboy Q",
+        "release_date": "2014-01-01",
+        "durations_in_mins": 5.0
+    },
+    {
+        "name": "The Fall",
+        "album": "Trilogy",
+        "artist": "The Weeknd",
+        "release_date": "2012-01-01",
+        "durations_in_mins": 5.75
+    },
+    {
+        "name": "What They Want",
+        "album": "Oxymoron (Deluxe)",
+        "artist": "ScHoolboy Q",
+        "release_date": "2014-01-01",
+        "durations_in_mins": 4.45
+    },
+    {
+        "name": "Fuck LA",
+        "album": "Oxymoron (Deluxe)",
+        "artist": "ScHoolboy Q",
+        "release_date": "2014-01-01",
+        "durations_in_mins": 3.34
+    },
+    {
+        "name": "Know Yourself",
+        "album": "If You're Reading This It's Too Late",
+        "artist": "Drake",
+        "release_date": "2015-02-12",
+        "durations_in_mins": 4.6
+    },
+    {
+        "name": "Energy",
+        "album": "If You're Reading This It's Too Late",
+        "artist": "Drake",
+        "release_date": "2015-02-12",
+        "durations_in_mins": 3.03
+    },
+    {
+        "name": "Nothing (feat. IAMSU!, Dave Steezy)",
+        "album": "Shmop City",
+        "artist": "Kool John",
+        "release_date": "2014-07-24",
+        "durations_in_mins": 3.35
+    },
+    {
+        "name": "M'$",
+        "album": "M'$",
+        "artist": "A$AP Rocky",
+        "release_date": "2015-04-10",
+        "durations_in_mins": 3.64
+    },
+    {
+        "name": "Blue Hunnids",
+        "album": "Blue Hunnids (feat. P-Lo) - Single",
+        "artist": "Kool John",
+        "release_date": "2015-03-02",
+        "durations_in_mins": 3.28
+    },
+    {
+        "name": "Multiply (feat. Juicy J)",
+        "album": "Multiply (feat. Juicy J)",
+        "artist": "A$AP Rocky",
+        "release_date": "2014-10-07",
+        "durations_in_mins": 3.72
+    },
+    {
+        "name": "\"Eternal\"",
+        "album": "E.Eternal 1999",
+        "artist": "Bone Thugs-N-Harmony",
+        "release_date": "1995",
+        "durations_in_mins": 4.07
+    },
+    {
+        "name": "Bitch Please II",
+        "album": "The Marshall Mathers LP",
+        "artist": "Eminem",
+        "release_date": "2000-05-23",
+        "durations_in_mins": 4.8
+    }
+]
